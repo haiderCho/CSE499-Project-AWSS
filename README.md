@@ -1,5 +1,5 @@
 <h1 align="center"> CSE499 (A+B) (Senior Design I+II) </h1>
-<h2 align="center"> Music Recommendation system
+<h2 align="center"> AI-Driven Waste Sorting System Using Computer Vision.
 <p align="center">
  <img alt="Languages" src="https://img.shields.io/github/languages/count/haiderCho/CSE499-Project-AWSS">
  <img alt="Repository size" src="https://img.shields.io/github/repo-size/haiderCho/CSE499-Project-AWSS">
